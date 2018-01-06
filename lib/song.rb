@@ -18,5 +18,5 @@ end
 
 def self.genres(arr)
   arr = []
-
+end 
 end
